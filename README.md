@@ -42,6 +42,7 @@ Zespoły:
 1. [Z3](https://github.com/zajacmp3/RailsExam)
 1. [PMT](https://github.com/Macio1992/rubyOnRailsProject)
 1. [MacMisDev](https://github.com/MacMisDev/karczma)
+1. [The Procrastinators](https://github.com/mbuda/RailsGroupProject)
 
 Indywidualiści:
 
